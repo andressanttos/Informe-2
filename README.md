@@ -47,8 +47,11 @@ Tabla 1.1
 
 6. CONCLUSIONES:
 
-•No en todos los casos los valores teóricos serán igual a los medidos pero sí se asemejarán. En la solución del circuito por medio de LCK se llegará a una misma respuesta con un desfase de error mínimo.
-•	La efectividad de la técnica que utilizamos (análisis por mallas en conjunto con la ley de ohm) fue muy efectiva, sin embargo la variación o el margen de error tiene una relación directa con los dispositivos de medición y elementos del circuito .
+•	No en todos los casos los valores teóricos serán igual a los medidos pero sí se asemejarán. 
+
+•	El margen de error tiene una relación directa con los dispositivos de medición y elementos del circuito. Queda clara la efectividad del análisis por mallas en conjunto con la ley de ohm ya que existe una mínima desviación entre los resultados teóricos y experimentales, casi inexistente.  
+
+•	.Hay que tener en cuenta que  existen varios factores que afectan los resultados, algunos de estos son: un mal ensamblaje del circuito, o el mal funcionamiento de algún elemento del circuito.
 
 
 
@@ -56,17 +59,13 @@ Tabla 1.1
 
 7. BIBLIOGRAFÍA
 
-•
+•Johnson, D. E., Hilburn, J. L., Johnson, J. R., & Pozo, V. G. (1987). Análisis básico de circuitos eléctricos. Prentice-Hall Hispanoamericana.
 
-•Alulema Darwin (2020). Capítulo 3. Análisis de mallas. Págs (56-77) 
+•Alulema Darwin (2020). Capítulo 3. Análisis de mallas. Págs (15-25) 
 
-•
+•Irwin, J. D., & Alvarado, E. V. (1997). Análisis básico de circuitos en Ingeniería. Prentice-Hall Hispanoamericana.
 
-•
-
-•
-
-•Santos M. (2020). Tinkercad. "Voltaje". Recuperado de: https://www.tinkercad.com/things/5c7HMBvtmsq-voltaje
+•Manotoa S. (2020). Tinkercad. "Super Lappi-Uusam". Recuperado de: tinkercad.com/things/cvaMhqW2tIH-super-lappi-uusam/editel?sharecode=ToVNsNfZZ5L7_GEBtd3V8rUCYl7MA9n-Y9U6sEOlIsQ
 
 
 8. ANEXOS
