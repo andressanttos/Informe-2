@@ -19,7 +19,7 @@
 ![](
 3. DIAGRAMAS
 
-![](img/diagrama%20circuito%20eléctrico.png
+![](img/diagrama%20circuito%20eléctrico.png)
 
 
 4. LISTA DE COMPONENTES
