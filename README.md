@@ -19,13 +19,12 @@
 ![](
 3. DIAGRAMAS
 
+![](img/diagrama%20circuito%20eléctrico.png
 
-![](img/
-
-![](img/)
 
 4. LISTA DE COMPONENTES
 
+![](img/material%20y%20equipo.png)
 
 5. EXPLICACIÓN 
 
