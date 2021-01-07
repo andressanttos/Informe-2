@@ -17,11 +17,13 @@
 
 ![](
 
-![](
 3. DIAGRAMAS
 
 ![](img/diagrama%20circuito%20eléctrico.png)
 
+![](https://github.com/andressanttos/Informe-2/blob/main/img/diagrama%202.png)
+
+![](https://github.com/andressanttos/Informe-2/blob/main/img/diagrama%203.png)
 
 4. LISTA DE COMPONENTES
 
@@ -29,14 +31,19 @@
 
 5. EXPLICACIÓN 
 
+![](https://github.com/andressanttos/Informe-2/blob/main/img/explicaci%C3%B3n1.png)
 
+![](https://github.com/andressanttos/Informe-2/blob/main/img/explicaci%C3%B3n2.png)
 
--Tabla 2.1. Resultados obtenidos para el circuito eléctrico 
- 
- ![](img/
-Resultados medidos con los valores obtenidos al analizar el circuito analíticamente: 
+-Resultados obtenidos de la corriente de cada malla
+
+Tabla 1.1
+
+![](https://github.com/andressanttos/Informe-2/blob/main/img/tabla1.1.png)
 
 •Calculo del error porcentual 
+
+![](https://github.com/andressanttos/Informe-2/blob/main/img/error.png)
 
 6. CONCLUSIONES:
 
@@ -64,13 +71,5 @@ Resultados medidos con los valores obtenidos al analizar el circuito analíticam
 
 8. ANEXOS
 
-![](img/
 
-![](img/
-
-![](img/
-
-![](img/
-
-![](img/
 
