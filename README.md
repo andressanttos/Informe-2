@@ -8,14 +8,11 @@
 • Comprobar que el análisis del circuito concuerde con los datos recogidos en el laboratorio
 
 
-•
-
-•	
 
 2.MARCO TEÓRICO
 
 
-![](
+![](img/marco%20teorico%201.png)
 
 3. DIAGRAMAS
 
@@ -54,8 +51,6 @@ Tabla 1.1
 •	.Hay que tener en cuenta que  existen varios factores que afectan los resultados, algunos de estos son: un mal ensamblaje del circuito, o el mal funcionamiento de algún elemento del circuito.
 
 
-
-•
 
 7. BIBLIOGRAFÍA
 
