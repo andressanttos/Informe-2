@@ -1,11 +1,12 @@
 # Informe 2
 1.OBJETIVOS 
 
-•
+• Analizar y medir ciertas incógnitas mediante mallas en un circuito.
 
-• 
+• Buscar la técnica más efectiva para el análisis del circuito
 
-• 
+• Comprobar que el análisis del circuito concuerde con los datos recogidos en el laboratorio
+
 
 •
 
@@ -39,9 +40,10 @@ Resultados medidos con los valores obtenidos al analizar el circuito analíticam
 
 6. CONCLUSIONES:
 
-•
+•No en todos los casos los valores teóricos serán igual a los medidos pero sí se asemejarán. En la solución del circuito por medio de LCK se llegará a una misma respuesta con un desfase de error mínimo.
+•	La efectividad de la técnica que utilizamos (análisis por mallas en conjunto con la ley de ohm) fue muy efectiva, sin embargo la variación o el margen de error tiene una relación directa con los dispositivos de medición y elementos del circuito .
 
-•	
+
 
 •
 
