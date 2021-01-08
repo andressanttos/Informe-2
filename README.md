@@ -71,6 +71,7 @@ Tabla 1.1
 
 
 8. ANEXOS
-
+ 
+![](img/ecuaciones.png)
 
 
