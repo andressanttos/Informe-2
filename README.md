@@ -15,11 +15,11 @@ El método llamado análisis de mallas se basa principalmente en la aplicación 
 
 La corriente de malla se define como la corriente que fluye a través de los elementos que constituyen la malla. Nótese que la corriente en un elemento común a dos mallas es la suma algebraica de las corrientes de malla. La corriente de malla se indica por una flecha curva, aunque su dirección es arbitraria
 
-![](img/marco%20teorico%201.png)
+![](img/marco%20teórico%201.png)
 
 Este analisis consiste en asginar a cada "ventana" del circuito una corriente total cerrada en bucle. Cada corriente sera represntada como I*R y se sumara o restara cada intensidad por sus resistencias de acuerdo a sus mallas adyacentes. Para esto: 
 
-
+![](img/marco%20teórico%202.png)
 
 3. DIAGRAMAS
 
